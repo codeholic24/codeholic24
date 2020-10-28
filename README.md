@@ -11,7 +11,6 @@
 - [<img align="left" alt="vikas-bhaskar-vooradi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ## Example of work 
-<img src="https://github.com/codeholic24/codeholic24/blob/main/example.gif" alt="Mini_Project" width="240">
 
 <a href="https://www.youtube.com/watch?v=u-vEzFgQJhY&t=169s
 " target="_blank"><img src="http://img.youtube.com/vi/u-vEzFgQJhY/mqdefault.jpg" 
