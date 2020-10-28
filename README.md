@@ -3,7 +3,7 @@
 
 ## I'm a Developer !!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything what ever comes to my plate 🤣
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sketch and indoor player
@@ -19,5 +19,3 @@
 [website]: http://shayaaz.weebly.com
 [youtube]: https://www.youtube.com/channel/UC3o5ofZCvRvBGAW6NYmMjRQ
 [linkedin]: https://www.linkedin.com/in/vikas-bhaskar-vooradi/
-
-
