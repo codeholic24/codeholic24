@@ -11,21 +11,9 @@
 - [<img align="left" alt="vikas-bhaskar-vooradi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br> 
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codeholic24&show_icons=true)  
 
-<br>
-
-![GitHub metrics](https://metrics.lecoq.io/codeholic24)  
-
-<br>
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codeholic24)  
-
-<br>
-
-<br>
 
 
 [website]: http://shayaaz.weebly.com
