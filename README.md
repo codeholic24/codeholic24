@@ -1,6 +1,6 @@
 ### Hi there, I'm Vikas 
 
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="vikas-bhaskar-vooradi"><a class="LI-simple-link" href='https://in.linkedin.com/in/vikas-bhaskar-vooradi?trk=profile-badge'>Vikas Bhaskar Vooradi</a></div>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
