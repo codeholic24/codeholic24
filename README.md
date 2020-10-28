@@ -12,11 +12,6 @@
 
 <br> 
 
-<br> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeholic24)](https://github.com/anuraghazra/github-readme-stats)
-
-<br> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codeholic24&show_icons=true)  
 
