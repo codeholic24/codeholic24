@@ -12,6 +12,10 @@
 
 ## Example of work 
 <img src="https://github.com/codeholic24/codeholic24/blob/main/example.gif" alt="Mini_Project" width="350" height="240">
+
+<a href="https://www.youtube.com/watch?v=u-vEzFgQJhY&t=169s
+" target="_blank"><img src="http://img.youtube.com/vi/u-vEzFgQJhY/mqdefault.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codeholic24)  
 
