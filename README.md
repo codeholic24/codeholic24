@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything what ever comes to my plate 🤣
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to sketch and indoor player
+- ⚡ Fun fact: I love to sketch 
 
 
 ### Connect with me:
