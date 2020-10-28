@@ -11,15 +11,15 @@
 - [<img align="left" alt="vikas-bhaskar-vooradi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ## Example of work 
-<img src="https://github.com/codeholic24/codeholic24/blob/main/example.gif" alt="Mini_Project" width="350">
+<img src="https://github.com/codeholic24/codeholic24/blob/main/example.gif" alt="Mini_Project" width="240">
 
 <a href="https://www.youtube.com/watch?v=u-vEzFgQJhY&t=169s
 " target="_blank"><img src="http://img.youtube.com/vi/u-vEzFgQJhY/mqdefault.jpg" 
-alt="IMAGE ALT TEXT HERE" width="350" height="180" border="10" /></a> <a href="https://youtu.be/h5VgOU8JPlk?list=PLBFjBwVDBdyDdZKY6Mi4GnPbUrno3gACQ
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a> <a href="https://youtu.be/h5VgOU8JPlk?list=PLBFjBwVDBdyDdZKY6Mi4GnPbUrno3gACQ
 " target="_blank"><img src="http://img.youtube.com/vi/h5VgOU8JPlk/mqdefault.jpg" 
-alt="IMAGE ALT TEXT HERE" width="350" height="180" border="10" /></a><a href="https://www.youtube.com/watch?v=SG8RmJzPDvI&list=PLBFjBwVDBdyBROdXQdk8BhWw3WUIJLAVX
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a><a href="https://www.youtube.com/watch?v=SG8RmJzPDvI&list=PLBFjBwVDBdyBROdXQdk8BhWw3WUIJLAVX
 " target="_blank"><img src="http://img.youtube.com/vi/SG8RmJzPDvI/mqdefault.jpg" 
-alt="IMAGE ALT TEXT HERE" width="350" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codeholic24)  
