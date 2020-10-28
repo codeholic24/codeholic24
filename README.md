@@ -10,7 +10,13 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 - ⚡ Fun fact: I love to sketch 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codeholic24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vikas-bhaskar-vooradi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC3o5ofZCvRvBGAW6NYmMjRQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://shayaaz.weebly.com/)  
+### Connect with me:
+
+[<img align="left" alt="shayaaz.weebly.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="itstudies | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="vikas-bhaskar-vooradi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeholic24)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -21,3 +27,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codeholic24)  
 
 ![Profile views](https://gpvc.arturio.dev/codeholic24)  
+
+[website]: http://shayaaz.weebly.com
+[youtube]: https://www.youtube.com/channel/UC3o5ofZCvRvBGAW6NYmMjRQ
+[linkedin]: https://www.linkedin.com/in/vikas-bhaskar-vooradi/
