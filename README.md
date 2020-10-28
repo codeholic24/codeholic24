@@ -16,15 +16,28 @@
 
 <br> 
 
+<br> 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeholic24)](https://github.com/anuraghazra/github-readme-stats)
+
+<br> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codeholic24&show_icons=true)  
 
+<br>
+
 ![GitHub metrics](https://metrics.lecoq.io/codeholic24)  
+
+<br>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codeholic24)  
 
+<br>
+
 ![Profile views](https://gpvc.arturio.dev/codeholic24)  
+
+<br>
+
 
 [website]: http://shayaaz.weebly.com
 [youtube]: https://www.youtube.com/channel/UC3o5ofZCvRvBGAW6NYmMjRQ
