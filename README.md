@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Vikas Bhaskar Vooradi
+### Hi there 👋
 
 ![Developer | YouTuber](https://github.com/codeholic24/codeholic24/blob/main/Banner.PNG)
 
