@@ -2,8 +2,6 @@
 
 ![Developer | YouTuber](https://github.com/codeholic24/codeholic24/blob/main/Banner.PNG)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 - 🌱 I’m currently learning Python  
 - 👯 I’m looking to collaborate on on open source projects  
 - 💬 Ask me about Unix shell script  
