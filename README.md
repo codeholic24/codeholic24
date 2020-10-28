@@ -16,6 +16,7 @@
 <a href="https://www.youtube.com/watch?v=u-vEzFgQJhY&t=169s
 " target="_blank"><img src="http://img.youtube.com/vi/u-vEzFgQJhY/mqdefault.jpg" 
 alt="IMAGE ALT TEXT HERE" width="350" height="180" border="10" /></a>
+
 <a href="https://youtu.be/_fvNx7LghRY?list=PLBFjBwVDBdyApz9lKlHpHIHJCeRewlnUY
 " target="_blank"><img src="http://img.youtube.com/vi/_fvNx7LghRY/mqdefault.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
