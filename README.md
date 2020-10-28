@@ -1,7 +1,6 @@
 ### Hi there, I'm Vikas 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="vikas-bhaskar-vooradi"><a class="LI-simple-link" href='https://in.linkedin.com/in/vikas-bhaskar-vooradi?trk=profile-badge'>Vikas Bhaskar Vooradi</a></div>
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
