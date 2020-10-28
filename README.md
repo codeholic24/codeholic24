@@ -21,7 +21,7 @@ HackerRank : https://www.hackerrank.com/vikasvooradi_de1
 
 <br>
 
-### Click on below video to watch the developed Mini C# application as a part of internal assessment for college 
+### Click on below video to watch the developed Mini C# application just for fun
 
 [![Alt text](http://img.youtube.com/vi/_fvNx7LghRY/maxresdefault.jpg)](https://www.youtube.com/watch?v=_fvNx7LghRY&list=PLBFjBwVDBdyApz9lKlHpHIHJCeRewlnUY)
 <br>
