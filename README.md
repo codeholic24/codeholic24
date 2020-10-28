@@ -1,38 +1,23 @@
-### Hi there, I'm Vikas Bhaskar Vooradi
+### Hi there 👋, my name is Vikas Bhaskar Vooradi
+#### Developer | YouTuber
+![Developer | YouTuber](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-## I'm a Developer !!
-
-- 🌱 I’m currently learning everything what ever comes to my plate 🤣
-- 👯 I’m looking to collaborate with other Developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Python  
+- 👯 I’m looking to collaborate on on open source projects  
+- 💬 Ask me about Unix shell script  
 - ⚡ Fun fact: I love to sketch 
 
-### Member of :
-HackerRank : https://www.hackerrank.com/vikasvooradi_de1    
 
-### Connect with me:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codeholic24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vikas-bhaskar-vooradi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC3o5ofZCvRvBGAW6NYmMjRQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://shayaaz.weebly.com/)  
 
-[<img align="left" alt="shayaaz.weebly.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="itstudies | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="vikas-bhaskar-vooradi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeholic24)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codeholic24&show_icons=true)  
 
-<br>
+![GitHub metrics](https://metrics.lecoq.io/codeholic24)  
 
-### Click on below video to watch the developed Mini C# application just for fun
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codeholic24)  
 
-[![Alt text](http://img.youtube.com/vi/_fvNx7LghRY/maxresdefault.jpg)](https://www.youtube.com/watch?v=_fvNx7LghRY&list=PLBFjBwVDBdyApz9lKlHpHIHJCeRewlnUY)
-<br>
-<br>
-### Click on below video to watch the developed Mini shell script Quiz application just for fun
-[![Alt text](https://img.youtube.com/vi/u-vEzFgQJhY/maxresdefault.jpg)](https://www.youtube.com/watch?v=u-vEzFgQJhY&t=169s)
-
-
-[website]: http://shayaaz.weebly.com
-[youtube]: https://www.youtube.com/channel/UC3o5ofZCvRvBGAW6NYmMjRQ
-[linkedin]: https://www.linkedin.com/in/vikas-bhaskar-vooradi/
-
-
-
+![Profile views](https://gpvc.arturio.dev/codeholic24)  
