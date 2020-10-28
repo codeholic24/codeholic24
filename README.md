@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Vikas Bhaskar Vooradi
-#### Developer | YouTuber
-![Developer | YouTuber](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+![Developer | YouTuber](https://github.com/codeholic24/codeholic24/blob/main/Banner.PNG)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
