@@ -30,8 +30,6 @@
 
 <br>
 
-![Profile views](https://gpvc.arturio.dev/codeholic24)  
-
 <br>
 
 
