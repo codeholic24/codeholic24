@@ -19,7 +19,7 @@
 
 <br>
 
-### YouTube:
+### Click on below video to watch the developed mini application as a part of internal assessment for college :
 
 [![Alt text](http://img.youtube.com/vi/_fvNx7LghRY/maxresdefault.jpg)](https://www.youtube.com/watch?v=_fvNx7LghRY&list=PLBFjBwVDBdyApz9lKlHpHIHJCeRewlnUY)
 
