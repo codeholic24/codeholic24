@@ -15,11 +15,15 @@
 [<img align="left" alt="itstudies | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="vikas-bhaskar-vooradi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br>
+
+### Contribution graph:
+<img src="https://grass-graph.moshimo.works/images/codeholic24.png">
+
 
 [website]: http://shayaaz.weebly.com
 [youtube]: https://www.youtube.com/channel/UC3o5ofZCvRvBGAW6NYmMjRQ
 [linkedin]: https://www.linkedin.com/in/vikas-bhaskar-vooradi/
 
 
-### Contribution graph:
-<img src="https://grass-graph.moshimo.works/images/codeholic24.png">
+
