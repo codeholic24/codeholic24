@@ -3,7 +3,7 @@
 ![Developer | YouTuber](https://github.com/codeholic24/codeholic24/blob/main/Banner.PNG)
 
 - 🌱 I’m currently learning Python  
-- 👯 I’m looking to collaborate on on open source projects  
+- 👯 I’m looking to collaborate on open source projects  
 - 💬 Ask me about Unix shell script  
 - ⚡ Fun fact: I love to sketch 
 - [<img align="left" alt="shayaaz.weebly.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
