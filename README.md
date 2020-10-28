@@ -11,10 +11,9 @@
 - [<img align="left" alt="vikas-bhaskar-vooradi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ## Example of work 
-
+<img src="https://github.com/codeholic24/codeholic24/blob/main/example.gif" alt="Mini_Project" width="350" height="240">
  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codeholic24)  
-
 
 [website]: http://shayaaz.weebly.com
 [youtube]: https://www.youtube.com/channel/UC3o5ofZCvRvBGAW6NYmMjRQ
