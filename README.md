@@ -91,7 +91,7 @@
 </details>
 
 [website]: http://shayaaz.weebly.com
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UC3o5ofZCvRvBGAW6NYmMjRQ
 [linkedin]: https://www.linkedin.com/in/vikas-bhaskar-vooradi/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
