@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on open source projects  
 - 💬 Ask me about Unix shell script  
 - ⚡ Fun fact: I love to sketch 
-- [<img align="left" alt="shayaaz.weebly.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+- [<img align="left" alt="writecodeforme.blogspot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 - [<img align="left" alt="itstudies | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 - [<img align="left" alt="vikas-bhaskar-vooradi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -25,6 +25,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codeholic24)  
 
-[website]: http://shayaaz.weebly.com
+[website]: https://writecodeforme.blogspot.com
 [youtube]: https://www.youtube.com/channel/UC3o5ofZCvRvBGAW6NYmMjRQ
 [linkedin]: https://www.linkedin.com/in/vikas-bhaskar-vooradi/
